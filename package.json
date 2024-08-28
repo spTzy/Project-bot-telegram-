@@ -1,0 +1,12 @@
+{
+  "name": "tzy-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram sederhana menggunakan node-telegram-bot-api",
+  "main": "tzy.js",
+  "scripts": {
+    "start": "node tzy.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
